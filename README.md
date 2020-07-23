@@ -1,6 +1,6 @@
 # Tic_Tac_Toe
 
-Atic tac toe game, building in Ruby.
+Tic tac toe game, building in Ruby.
 
 ### Prerequisites
 
